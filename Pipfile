@@ -8,7 +8,10 @@ pandas = "*"
 numpy = "*"
 matplotlib = "*"
 jupyter = "*"
+<<<<<<< HEAD
 seaborn = "*"
+=======
+>>>>>>> 4da7e6f74f3ad725d055723090aae1e6346ac78a
 
 [dev-packages]
 

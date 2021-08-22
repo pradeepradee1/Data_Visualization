@@ -1,7 +1,11 @@
 {
     "_meta": {
         "hash": {
+<<<<<<< HEAD
             "sha256": "e3fcda8d04e95e1b2e05f14d3c7dc62f5ff80f5f281ce852d46939894fc7e2f1"
+=======
+            "sha256": "e02e2b82347d54fc88d331b56a41d8e43f1300563ef3ad620b97e33ed4a05590"
+>>>>>>> 4da7e6f74f3ad725d055723090aae1e6346ac78a
         },
         "pipfile-spec": 6,
         "requires": {
@@ -782,6 +786,7 @@
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'",
             "version": "==1.10.0"
         },
+<<<<<<< HEAD
         "scipy": {
             "hashes": [
                 "sha256:2a0eeaab01258e0870c4022a6cd329aef3b7c6c2b606bd7cf7bb2ba9820ae561",
@@ -815,6 +820,8 @@
             "index": "pypi",
             "version": "==0.11.2"
         },
+=======
+>>>>>>> 4da7e6f74f3ad725d055723090aae1e6346ac78a
         "send2trash": {
             "hashes": [
                 "sha256:d2c24762fd3759860a0aff155e45871447ea58d2be6bdd39b5c8f966a0c99c2d",
